@@ -1,0 +1,47 @@
+{"Playlist 1":
+  [
+    {
+      "name":"Future Echoes",
+      "artist":"LSPECTRONIZTAR",
+      "file":"Future Echoes.mp3"
+    },
+    {
+      "name":"(Dub)Step on a Crack",
+      "artist":"LSPECTRONIZTAR",
+      "file":"(Dub)Step on a Crack.mp3"
+    },
+    {
+      "name":"5YNTH3T1C_R1D3",
+      "artist":"LSPECTRONIZTAR",
+      "file":"5YNTH3T1C_R1D3.mp3"
+     },
+     {
+      "name":"Mystic Reflections",
+      "artist":"LSPECTRONIZTAR",
+      "file":"Mystic Reflections.mp3"
+     },
+     {
+      "name":"DR0P 7H47",
+      "artist":"LSPECTRONIZTAR",
+      "file":"DR0P 7H47.mp3"
+     }
+   ],
+  "Playlist 2":
+   [
+    {
+      "name":"Bazz",
+      "artist":"NitroSplash",
+      "file":"Bazz.mp3"
+    },     
+    {
+       "name":"The Boss of Electro Swing (Full ver.)",
+       "artist":"LSPECTRONIZTAR",
+       "file":"The Boss of Electro Swing.mp4"
+     },
+     {
+       "name":"3DGES/4NGLES",
+       "artist":"LSPECTRONIZTAR",
+       "file":"edgy.wav"
+     }
+  ]
+}
