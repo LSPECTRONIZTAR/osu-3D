@@ -28,20 +28,21 @@
    ],
   "Playlist 2":
    [
+     
+    {
+      "name":"3DGES/4NGLES",
+      "artist":"LSPECTRONIZTAR",
+      "file":"edgy.wav"
+    },
     {
       "name":"Bazz",
       "artist":"NitroSplash",
       "file":"Bazz.mp3"
     },     
     {
-       "name":"The Boss of Electro Swing (Full ver.)",
-       "artist":"LSPECTRONIZTAR",
-       "file":"The Boss of Electro Swing.mp4"
-     },
-     {
-       "name":"3DGES/4NGLES",
-       "artist":"LSPECTRONIZTAR",
-       "file":"edgy.wav"
-     }
+      "name":"The Boss of Electro Swing (Full ver.)",
+      "artist":"LSPECTRONIZTAR",
+      "file":"The Boss of Electro Swing.mp4"
+    }
   ]
 }
