@@ -4,7 +4,7 @@ Made by [@LSPECTRONIZTAR](https://youtube.com/@LSPECTRONIZTAR/)
 # Art / Graphic Design
 
 ## Gameplay
-- Gameplay modifier card images generated with [ZMO AI](https://imgcreator.zmo.ai/ai-generator?type=TEXT_INPUT&ref=characterLanding&url=/ai-generator)
+- Gameplay modifier card images generated with [Fotor AI](https://www.fotor.com/images/create)
 - Environments designed by @LSPECTRONIZTAR
 
 # Programming / Implementation
