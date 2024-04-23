@@ -6,11 +6,6 @@
       "file":"Future Echoes.mp3"
     },
     {
-      "name":"(Dub)Step on a Crack",
-      "artist":"LSPECTRONIZTAR",
-      "file":"(Dub)Step on a Crack.mp3"
-    },
-    {
       "name":"5YNTH3T1C_R1D3",
       "artist":"LSPECTRONIZTAR",
       "file":"5YNTH3T1C_R1D3.mp3"
@@ -26,9 +21,8 @@
       "file":"DR0P 7H47.mp3"
      }
    ],
-  "Playlist 2":
-   [
-     
+  "Future Echoes":
+   [     
     {
       "name":"3DGES/4NGLES",
       "artist":"LSPECTRONIZTAR",
@@ -39,6 +33,11 @@
       "artist":"NitroSplash",
       "file":"Bazz.mp3"
     },     
+    {
+      "name":"(Dub)Step on a Crack",
+      "artist":"LSPECTRONIZTAR",
+      "file":"(Dub)Step on a Crack.mp3"
+    },
     {
       "name":"The Boss of Electro Swing (Full ver.)",
       "artist":"LSPECTRONIZTAR",
