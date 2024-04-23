@@ -1,4 +1,7 @@
 # Art / Graphic Design
+
+# Gameplay
+
 - Gameplay modifier card images generated with [ZMO AI](https://imgcreator.zmo.ai/ai-generator?type=TEXT_INPUT&ref=characterLanding&url=/ai-generator)
 
 # Programming / Implementation
