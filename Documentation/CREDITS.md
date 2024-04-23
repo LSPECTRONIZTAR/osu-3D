@@ -9,7 +9,7 @@
 
 ## Miscellanous
 - Transition effect by [@TeslaTech](https://scratch.mit.edu/users/TeslaTech/) on [Scratch](https://scratch.mit.edu/projects/73056526/)
-- Blur effect by [@Sinaboo](https://scratch.mit.edu/users/Sinaboo/) on (Scratch)[https://scratch.mit.edu/projects/306115260/]
+- Blur effect by [@Sinaboo](https://scratch.mit.edu/users/Sinaboo/) on [Scratch](https://scratch.mit.edu/projects/306115260/)
 
 # Sound Design
 
