@@ -1,13 +1,16 @@
+# osu!3D
+Made by [@LSPECTRONIZTAR](https://youtube.com/@LSPECTRONIZTAR/)
+
 # Art / Graphic Design
 
-# Gameplay
-
+## Gameplay
 - Gameplay modifier card images generated with [ZMO AI](https://imgcreator.zmo.ai/ai-generator?type=TEXT_INPUT&ref=characterLanding&url=/ai-generator)
+- Environments designed by @LSPECTRONIZTAR
 
 # Programming / Implementation
 
 ## Gameplay
-- Most gameplay code by [@LSPECTRONIZTAR](https://youtube.com/@LSPECTRONIZTAR/)
+- Most gameplay code by @LSPECTRONIZTAR
 - Spinner code by [@SpiritSK](https://scratch.mit.edu/users/SpiritSK/) on [Scratch](https://scratch.mit.edu/projects/613688710/)
 
 ## Miscellanous
