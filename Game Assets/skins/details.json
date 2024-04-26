@@ -2,7 +2,7 @@
   "noteskins": [
     {
       "name": "Default",
-      "description": "The classic look, simple and clean.",
+      "description": "The classic look, simple and clean."
     },
     {
       "name": "Deluxe",
@@ -17,13 +17,13 @@
     },
     {
       "name": "Squares",
-      "description": "Sharp angles and a modern design, for a geometric aesthetic.",
+      "description": "Sharp angles and a modern design, for a geometric aesthetic."
     }
   ],
   "feedbackEffects": [
     {
       "name": "Default",
-      "description": "The classic look, simple and clean.",
+      "description": "The classic look, simple and clean."
     },
     {
       "name": "Deluxe",
