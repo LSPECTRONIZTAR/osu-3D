@@ -1,7 +1,7 @@
 [
   {
     "name": "Light",
-    "path": "Light.png",
+    "file": "Light.png",
     "graphic effects": {
       "brightness": 0,
       "ghost": 0
@@ -9,7 +9,7 @@
   },
   {
     "name": "Lightshow",
-    "path": "Lightshow.png",
+    "file": "Lightshow.png",
     "graphic effects": {
       "brightness": -100,
       "ghost": 25
