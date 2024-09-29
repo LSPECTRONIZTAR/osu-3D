@@ -2,17 +2,12 @@
   {
     "name": "Light",
     "file": "Light.png",
-    "graphic effects": {
-      "brightness": 0,
-      "ghost": 0
     }
   },
   {
     "name": "Lightshow",
     "file": "Lightshow.png",
-    "graphic effects": {
-      "brightness": -100,
-      "ghost": 25
+    "black screen": 75
     }
   }
 ]
