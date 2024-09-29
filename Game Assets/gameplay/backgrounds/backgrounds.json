@@ -2,12 +2,11 @@
   {
     "name": "Light",
     "file": "Light.png"
-    }
   },
   {
     "name": "Lightshow",
     "file": "Lightshow.png",
     "black screen": 75
-    }
   }
 ]
+
