@@ -1,0 +1,75 @@
+{
+  "Audio": [
+    {
+      "name": "Music Volume",
+      "description": "Adjusts the volume of background music.",
+      "optionType": "slider",
+      "sliderRange": {
+        "min": 0,
+        "max": 100
+      },
+      "defaultValue": 100
+    },
+    {
+      "name": "SFX Volume",
+      "description": "Adjusts the volume of sound effects.",
+      "optionType": "slider",
+      "sliderRange": {
+        "min": 0,
+        "max": 100
+      },
+      "defaultValue": 100
+    },
+    {
+      "name": "Master Volume",
+      "description": "Adjusts the overall game volume.",
+      "optionType": "slider",
+      "sliderRange": {
+        "min": 0,
+        "max": 100
+      },
+      "defaultValue": 100
+    }
+  ],
+  "Video": [
+    {
+      "name": "Toggle Fullscreen",
+      "description": "Toggles between fullscreen and windowed mode.",
+      "optionType": "on/off",
+      "defaultValue": "on",
+      "exclusive": "Application"
+    },
+    {
+      "name": "Framerate Limit",
+      "description": "Limits the frame rate of the game (gameplay only).",
+      "optionType": "slider",
+      "sliderRange": {
+        "min": 30,
+        "max": 240
+      },
+      "defaultValue": 60
+    }
+  ],
+  "Miscellanous": [
+    {
+      "name": "FPS Counter",
+      "description": "Displays the current frames per second (FPS) on-screen.",
+      "optionType": "on/off",
+      "defaultValue": "off"
+    },
+    {
+      "name": "Troll Messages",
+      "description": "Displays random troll messages throughout the game for fun.",
+      "optionType": "on/off",
+      "defaultValue": "off"
+    },
+    {
+      "name": "Language",
+      "description": "Changes the language of the game.",
+      "optionType": "dropdown",
+      "options": ["English", "Spanish", "French", "German", "Japanese"],
+      "defaultValue": "English",
+      "hideFromList": true
+    }
+  ]
+}
