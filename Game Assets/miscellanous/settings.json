@@ -36,7 +36,7 @@
       "name": "Toggle Fullscreen",
       "description": "Toggles between fullscreen and windowed mode.",
       "optionType": "on/off",
-      "defaultValue": "on",
+      "defaultValue": "1",
       "exclusive": "Application"
     },
     {
@@ -55,13 +55,13 @@
       "name": "FPS Counter",
       "description": "Displays the current frames per second (FPS) on-screen.",
       "optionType": "on/off",
-      "defaultValue": "off"
+      "defaultValue": "0"
     },
     {
       "name": "Troll Messages",
       "description": "Displays random troll messages throughout the game for fun.",
       "optionType": "on/off",
-      "defaultValue": "off"
+      "defaultValue": "0"
     },
     {
       "name": "Language",
