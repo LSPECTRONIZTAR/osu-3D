@@ -45,6 +45,9 @@ osu!3D is licensed under the [MIT License](LICENSE). See the LICENSE file for mo
 - A big shoutout to all our contributors and community members who have supported and improved osu!3D.
 - Also thanks to ChatGPT for helping me create this description 🤣🤣🤣
 
+## Disclaimer
+This fan-game is not associated with ppy (the creator of the original game) or anyone that might have contributed to the original osu! game, nor is it meant to steal from or replicate the Depth mod from osu!lazer; any reference to the mod is purely coincidental and likely due to parallel creativity, as the development of this game started three-and-a-half months prior to the mod's existence.
+
 ---
 
 Enjoy playing and creating with osu!3D – your next-level 3D rhythm game experience!
