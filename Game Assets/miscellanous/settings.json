@@ -23,20 +23,28 @@
     {
       "name": "Master Volume",
       "description": "Adjusts the overall game volume.",
+      "trollDescription": "Determines how loud The Master from Beat Saber OST 7 should speak.",
       "optionType": "slider",
       "sliderRange": {
         "min": 0,
         "max": 100
       },
       "defaultValue": 100
+    },
+    {
+      "name": "Remove Pitch Compensation",
+      "description": "Makes it so that song speed affects pitch.",
+      "trollDescription": "No nightcore? 🥺",
+      "optionType": "on/off",
+      "defaultValue": false
     }
   ],
   "Video": [
     {
       "name": "Toggle Fullscreen",
-      "description": "Toggles between fullscreen and windowed mode.",
+      "description": "Toggles between fullscreen (on) and windowed (off) mode.",
       "optionType": "on/off",
-      "defaultValue": "1",
+      "defaultValue": true,
       "exclusive": "Application"
     },
     {
@@ -50,22 +58,42 @@
       "defaultValue": 60
     }
   ],
+  "Graphics & Performance": [
+    {
+      "name": "Menu Theme",
+      "description": "Changes the theme of certain menus.",
+      "optionType": "dropdown",
+      "options": ["Standard", "Space"],
+      "defaultValue": "Standard"
+    },
+    {
+      "name": "Quality",
+      "description": "Changes the influence quality has over performance in the game.",
+      "trollDescription": "Turn quality into an influencer! 💅",
+      "optionType": "dropdown",
+      "options": ["Low (badder quality, better performance)", "Medium", "High", "Ultra (better quality, badder performance)"],
+      "defaultValue": "High"
+    }
+  ],
   "Miscellanous": [
     {
       "name": "FPS Counter",
       "description": "Displays the current frames per second (FPS) on-screen.",
+      "trollDescription": "Displays a low-quality (regardless of set quality) JPEG image of Emperor FPS from the UTTP.",
       "optionType": "on/off",
-      "defaultValue": "0"
+      "defaultValue": false
     },
     {
       "name": "Troll Messages",
       "description": "Displays random troll messages throughout the game for fun.",
+      "trollDescription": "Seeing weird messages? Try disabling this option! 😜",
       "optionType": "on/off",
-      "defaultValue": "0"
+      "defaultValue": false
     },
     {
       "name": "Language",
       "description": "Changes the language of the game.",
+      "trollDescription": "English or Spanish? 😏",
       "optionType": "dropdown",
       "options": ["English", "Spanish", "French", "German", "Japanese"],
       "defaultValue": "English",
