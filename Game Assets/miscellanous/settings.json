@@ -74,9 +74,9 @@
     {
       "name": "Menu Color Scheme",
       "description": "Changes the color scheme of certain menus.",
-      "optionType": "slider",
-      "sliderRange": {"min": 1, "max": 2},
-      "defaultValue": 1
+      "optionType": "dropdown",
+      "options": ["Standard", "Noir", "Purple", "Dark Blue", "Dullish"],
+      "defaultValue": "Standard"
     }
   ],
   "Miscellanous": [
