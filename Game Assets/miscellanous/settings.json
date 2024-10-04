@@ -42,7 +42,7 @@
       "name": "Screen Resolution",
       "description": "Changes the screen resolution.",
       "optionType": "dropdown",
-      "options": ["640x360", "1280x720", "1600x900", "1920x1080", "2560x1440", "7680x4320", "Match display size"],
+      "options": ["640x360", "1280x720", "1600x900", "1920x1080", "2560x1440", "7680x4320", "Match display size", "Match window size"],
       "defaultValue": "1920x1080"
     },
     {
