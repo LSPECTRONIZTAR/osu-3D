@@ -4,20 +4,14 @@
       "name": "Music Volume",
       "description": "Adjusts the volume of background music.",
       "optionType": "slider",
-      "sliderRange": {
-        "min": 0,
-        "max": 100
-      },
+      "sliderRange": {"min": 0, "max": 100},
       "defaultValue": 100
     },
     {
       "name": "SFX Volume",
       "description": "Adjusts the volume of sound effects.",
       "optionType": "slider",
-      "sliderRange": {
-        "min": 0,
-        "max": 100
-      },
+      "sliderRange": {"min": 0, "max": 100},
       "defaultValue": 100
     },
     {
@@ -25,10 +19,7 @@
       "description": "Adjusts the overall game volume.",
       "trollDescription": "Determines how loud The Master from Beat Saber OST 7 should speak.",
       "optionType": "slider",
-      "sliderRange": {
-        "min": 0,
-        "max": 100
-      },
+      "sliderRange": {"min": 0, "max": 100},
       "defaultValue": 100
     },
     {
@@ -48,18 +39,32 @@
       "exclusive": "Application"
     },
     {
+      "name": "Screen Resolution",
+      "description": "Changes the screen resolution.",
+      "optionType": "dropdown",
+      "options": ["1920x1080", "1280x720", "1600x900"],
+      "defaultValue": "1920x1080"
+    },
+    {
       "name": "Framerate Limit",
       "description": "Limits the frame rate of the game (gameplay only).",
       "optionType": "slider",
-      "sliderRange": {
-        "min": 30,
-        "max": 240
-      },
-      "defaultValue": 60
+      "sliderRange": {"min": 30, "max": 240},
+      "defaultValue": 120
     }
   ],
   "Graphics & Performance": [
     {
+      "name": "Quality",
+      "description": "Changes the influence quality has over performance in the game. Lowest = performance/quality, highest = quality/performance",
+      "trollDescription": "Turn quality into an influencer! 💅",
+      "optionType": "slider",
+      "sliderRange": {"min": 1, "max": 4},
+      "defaultValue": 3
+    }
+  ],
+  "Menu": [
+   {
       "name": "Menu Theme",
       "description": "Changes the theme of certain menus.",
       "optionType": "dropdown",
@@ -67,15 +72,11 @@
       "defaultValue": "Standard"
     },
     {
-      "name": "Quality",
-      "description": "Changes the influence quality has over performance in the game. Lowest = performance/quality, highest = quality/performance",
-      "trollDescription": "Turn quality into an influencer! 💅",
+      "name": "Menu Color Scheme",
+      "description": "Changes the color scheme of certain menus.",
       "optionType": "slider",
-      "sliderRange": {
-        "min": 1,
-        "max": 4
-      },
-      "defaultValue": 3
+      "sliderRange": {"min": 1, "max": 2},
+      "defaultValue": 1
     }
   ],
   "Miscellanous": [
