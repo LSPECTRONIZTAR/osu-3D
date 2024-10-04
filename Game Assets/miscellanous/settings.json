@@ -42,7 +42,14 @@
       "name": "Screen Resolution",
       "description": "Changes the screen resolution.",
       "optionType": "dropdown",
-      "options": ["1920x1080", "1280x720", "1600x900"],
+      "options": ["640x360", "1280x720", "1600x900", "1920x1080", "2560x1440", "7680x4320", "Match display size"],
+      "defaultValue": "1920x1080"
+    },
+    {
+      "name": "Resize Rendering Mode",
+      "description": "Changes the resize rendering mode.",
+      "optionType": "dropdown",
+      "options": ["Default", "Pixelated"],
       "defaultValue": "1920x1080"
     },
     {
