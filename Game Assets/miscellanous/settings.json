@@ -50,7 +50,7 @@
       "description": "Changes the resize rendering mode.",
       "optionType": "dropdown",
       "options": ["Default", "Pixelated"],
-      "defaultValue": "1920x1080"
+      "defaultValue": "Default"
     },
     {
       "name": "Framerate Limit",
