@@ -1,0 +1,136 @@
+{
+  "General": [
+    {
+      "name": "Note Distance",
+      "description": "Adjusts the travel distance of notes during osu!standard gameplay (does not affect note reaction time).",
+      "optionType": "slider",
+      "sliderRange": {"min": 150, "max": 600},
+      "defaultValue": 150
+    },
+    {
+      "name": "Disable Mouse Buttons",
+      "description": "Disables the use of mouse buttons for gameplay.",
+      "warning": "If you turn off mouse buttons, you can only use the set keys for alternative clicking.",
+      "optionType": "on/off",
+      "defaultValue": false
+    },
+    {
+      "name": "Tablet Mode",
+      "description": "Switches input method to tablet for better precision.",
+      "optionType": "on/off",
+      "defaultValue": false
+    },
+    {
+      "name": "Automatic Mod Activation",
+      "description": "Automatically activates preferred mods at the start of a new song.",
+      "optionType": "on/off",
+      "defaultValue": false
+    },
+    {
+      "name": "Mod Overlays",
+      "description": "Displays mod overlays during gameplay to show active modifiers.",
+      "optionType": "on/off",
+      "defaultValue": true
+    },
+    {
+      "name": "Pause Buffer",
+      "description": "Sets a buffer time before pausing the game to avoid accidental pauses.",
+      "optionType": "slider",
+      "sliderRange": {"min": 0, "max": 5},
+      "defaultValue": 1
+    },
+    {
+      "name": "Unpause Buffer",
+      "description": "Sets a buffer time before unpausing the game.",
+      "optionType": "slider",
+      "sliderRange": {"min": 0, "max": 5},
+      "defaultValue": 1
+    }
+  ],
+  "Appearance & HUD": [
+    {
+      "name": "Background Brightness",
+      "description": "Adjusts the brightness of the background during gameplay to reduce distractions.",
+      "optionType": "slider",
+      "sliderRange": {"min": 0, "max": 100},
+      "defaultValue": 80
+    },
+    {
+      "name": "AP/FC Indicator",
+      "description": "Changes the color of the combo display depending on the current clear report.",
+      "optionType": "dropdown",
+      "options": ["None", "FC Only", "AP Only", "FC + AP"],
+      "defaultValue": "FC + AP"
+    },
+    {
+      "name": "Show HUD",
+      "description": "Shows HUD during gameplay.",
+      "optionType": "on/off",
+      "defaultValue": true
+    },
+    {
+      "name": "Show Advanced HUD",
+      "description": "Shows advanced HUD during gameplay.",
+      "optionType": "on/off",
+      "defaultValue": true
+    }
+  ],
+  "Keybindings": [
+    {
+      "name": "Allows players to reassign key bindings for gameplay actions.",
+      "description": "Note: Keymapping for osu!standard corresponds to the alternative clicking keys, such as Z and X.",
+      "optionType": "keymap",
+      "defaultValue": {"1": "z", "2": "x"}
+    },
+    {
+      "name": "osu!taiko",
+      "optionType": "keymap",
+      "defaultValue": {"1": "x", "2": "c", "3": "z", "4": "v"}
+    },
+    {
+      "name": "osu!mania 1K",
+      "optionType": "keymap",
+      "defaultValue": {"1": "space"}
+    },
+    {
+      "name": "osu!mania 2K",
+      "optionType": "keymap",
+      "defaultValue": {"1": "f", "2": "j"}
+    },
+    {
+      "name": "osu!mania 3K",
+      "optionType": "keymap",
+      "defaultValue": {"1": "f", "2": "space", "3": "j"}
+    },
+    {
+      "name": "osu!mania 4K",
+      "optionType": "keymap",
+      "defaultValue": {"1": "d", "2": "f", "3": "j", "4": "k"}
+    },
+    {
+      "name": "osu!mania 5K",
+      "optionType": "keymap",
+      "defaultValue": {"1": "d", "2": "f", "3": "space", "4": "j", "5": "k"}
+    },
+    {
+      "name": "osu!mania 6K",
+      "optionType": "keymap",
+      "defaultValue": {"1": "s", "2": "d", "3": "f", "4": "j", "5": "k", "6": "l"}
+    },
+    {
+      "name": "osu!mania 7K",
+      "optionType": "keymap",
+      "defaultValue": {"1": "s", "2": "d", "3": "f", "4": "space", "5": "j", "6": "k", "7": "l"}
+    },
+    {
+      "name": "osu!mania 8K",
+      "optionType": "keymap",
+      "defaultValue": {"1": "a", "2": "s", "3": "d", "4": "f", "5": "j", "6": "k", "7": "l", "8": ";"}
+    },
+    {
+      "name": "osu!mania 9K",
+      "optionType": "keymap",
+      "defaultValue": {"1": "a", "2": "s", "3": "d", "4": "f", "5": "space", "6": "j", "7": "k", "8": "l", "9": ";"}
+    }
+  ]
+}
