@@ -83,7 +83,7 @@
       "name": "Menu Color Scheme",
       "description": "Changes the color scheme of certain menus.",
       "optionType": "dropdown",
-      "options": ["Standard", "Noir", "Purple", "Dark Blue", "Dullish"],
+      "options": ["Standard", "Noir", "Purple", "Dark Blue", "Dullish", "Blue", "Jade Green", "Sea Green", "Pink"],
       "defaultValue": "Standard"
     }
   ],
