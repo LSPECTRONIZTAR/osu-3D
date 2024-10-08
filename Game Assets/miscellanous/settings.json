@@ -4,14 +4,14 @@
       "name": "Music Volume",
       "description": "Adjusts the volume of background music.",
       "optionType": "slider",
-      "sliderRange": {"min": 0, "max": 100},
+      "sliderRange": {"min": 0, "max": 100, "suffix": "%"},
       "defaultValue": 60
     },
     {
       "name": "SFX Volume",
       "description": "Adjusts the volume of sound effects.",
       "optionType": "slider",
-      "sliderRange": {"min": 0, "max": 100},
+      "sliderRange": {"min": 0, "max": 100, "suffix": "%"},
       "defaultValue": 60
     },
     {
@@ -19,7 +19,15 @@
       "description": "Adjusts the overall game volume.",
       "trollDescription": "Determines how loud The Master from Beat Saber OST 7 should speak.",
       "optionType": "slider",
-      "sliderRange": {"min": 0, "max": 100},
+      "sliderRange": {"min": 0, "max": 100, "suffix": "%"},
+      "defaultValue": 60
+    },
+    {
+      "name": "Audio Offset",
+      "description": "Adjusts the audio offset (in milliseconds) for gameplay.",
+      "trollDescription": "Determines how loud The Master from Beat Saber OST 7 should speak.",
+      "optionType": "slider",
+      "sliderRange": {"min": -1000, "max": 1000, "suffix": " ms", "customInput": true},
       "defaultValue": 60
     },
     {
@@ -57,7 +65,7 @@
       "name": "Framerate Limit",
       "description": "Limits the frame rate of the game (gameplay only).",
       "optionType": "slider",
-      "sliderRange": {"min": 30, "max": 240},
+      "sliderRange": {"min": 30, "max": 240, "suffix": " fps"},
       "defaultValue": 120
     }
   ],
