@@ -5,14 +5,14 @@
       "description": "Adjusts the volume of background music.",
       "optionType": "slider",
       "sliderRange": {"min": 0, "max": 100},
-      "defaultValue": 100
+      "defaultValue": 60
     },
     {
       "name": "SFX Volume",
       "description": "Adjusts the volume of sound effects.",
       "optionType": "slider",
       "sliderRange": {"min": 0, "max": 100},
-      "defaultValue": 100
+      "defaultValue": 60
     },
     {
       "name": "Master Volume",
@@ -20,7 +20,7 @@
       "trollDescription": "Determines how loud The Master from Beat Saber OST 7 should speak.",
       "optionType": "slider",
       "sliderRange": {"min": 0, "max": 100},
-      "defaultValue": 100
+      "defaultValue": 60
     },
     {
       "name": "Remove Pitch Compensation",
