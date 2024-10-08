@@ -33,6 +33,12 @@
       "defaultValue": true
     },
     {
+      "name": "Show 300s"
+      "description": "Shows 300s during gameplay.",
+      "optionType": "on/off",
+      "defaultValue": true
+    },
+    {
       "name": "Pause Buffer",
       "description": "Sets a buffer time before pausing the game to avoid accidental pauses.",
       "optionType": "slider",
