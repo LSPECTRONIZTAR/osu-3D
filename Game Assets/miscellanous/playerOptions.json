@@ -4,8 +4,8 @@
       "name": "Note Distance",
       "description": "Adjusts the travel distance of notes during osu!standard gameplay (does not affect note reaction time).",
       "optionType": "slider",
-      "sliderRange": {"min": 150, "max": 600},
-      "defaultValue": 150
+      "sliderRange": {"min": 100, "max": 600},
+      "defaultValue": 100
     },
     {
       "name": "Disable Mouse Buttons",
@@ -36,14 +36,14 @@
       "name": "Pause Buffer",
       "description": "Sets a buffer time before pausing the game to avoid accidental pauses.",
       "optionType": "slider",
-      "sliderRange": {"min": 0, "max": 5},
+      "sliderRange": {"min": 0, "max": 5, "suffix": "s"},
       "defaultValue": 1
     },
     {
       "name": "Unpause Buffer",
       "description": "Sets a buffer time before unpausing the game.",
       "optionType": "slider",
-      "sliderRange": {"min": 0, "max": 5},
+      "sliderRange": {"min": 0, "max": 5, "suffix": "s"},
       "defaultValue": 1
     }
   ],
@@ -52,7 +52,7 @@
       "name": "Background Brightness",
       "description": "Adjusts the brightness of the background during gameplay to reduce distractions.",
       "optionType": "slider",
-      "sliderRange": {"min": 0, "max": 100},
+      "sliderRange": {"min": 0, "max": 100 "suffix": "%"},
       "defaultValue": 80
     },
     {
