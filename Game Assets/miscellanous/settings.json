@@ -25,7 +25,6 @@
     {
       "name": "Audio Offset",
       "description": "Adjusts the audio offset (in milliseconds) for gameplay.",
-      "trollDescription": "Determines how loud The Master from Beat Saber OST 7 should speak.",
       "optionType": "slider",
       "sliderRange": {"min": -1000, "max": 1000, "suffix": " ms", "customInput": true},
       "defaultValue": 60
@@ -41,7 +40,8 @@
   "Video": [
     {
       "name": "Toggle Fullscreen",
-      "description": "Toggles between fullscreen (on) and windowed (off) mode.",
+      "description": "Toggles between fullscreen (on) and windowed (off) mode. Alternatively, you can use Alt+Enter to toggle fullscreen.",
+      "trollDescription": "Zoooooooooom!",
       "optionType": "on/off",
       "defaultValue": true,
       "exclusive": "Application"
@@ -49,6 +49,7 @@
     {
       "name": "Screen Resolution",
       "description": "Changes the screen resolution.",
+      "trollDescription": "Modifies your monitor's New Year's Resolution.",
       "optionType": "dropdown",
       "options": ["640x360", "1280x720", "1600x900", "1920x1080", "2560x1440", "7680x4320", "Match display size", "Match window size"],
       "defaultValue": "1920x1080",
@@ -79,7 +80,7 @@
       "defaultValue": 3
     }
   ],
-  "Menu": [
+  "Menus & Interface": [
    {
       "name": "Menu Theme",
       "description": "Changes the theme of certain menus.",
@@ -93,6 +94,19 @@
       "optionType": "dropdown",
       "options": ["Standard", "Noir", "Purple", "Dark Blue", "Dullish", "Blue", "Jade Green", "Sea Green", "Pink"],
       "defaultValue": "Standard"
+    },
+    {
+      "name": "Background Visibility",
+      "description": "Reduces the menu curtain transparency that dims the background behind certains menus (like this one) when they are visible.",
+      "optionType": "slider",
+      "sliderRange": {"min": 0, "max": 100, "suffix": "%"},
+      "defaultValue": "50"
+    },
+    {
+      "name": "Preview Video",
+      "description": "Plays a preview of the song's video in the background on the song selection screen (if the song has one).",
+      "optionType": "on/off",
+      "defaultValue": false
     }
   ],
   "Miscellanous": [
