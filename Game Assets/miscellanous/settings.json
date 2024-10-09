@@ -73,7 +73,7 @@
   "Graphics & Performance": [
     {
       "name": "Quality",
-      "description": "Changes the influence quality has over performance in the game. Lowest = performance/quality, highest = quality/performance",
+      "description": "Lowest = performance/quality, highest = quality/performance",
       "trollDescription": "Turn quality into an influencer! 💅",
       "optionType": "slider",
       "sliderRange": {"min": 1, "max": 4},
@@ -97,7 +97,7 @@
     },
     {
       "name": "Background Visibility",
-      "description": "Reduces the menu curtain transparency that dims the background behind certains menus (like this one) when they are visible.",
+      "description": "Sets the visibility of the background when certain menus (like this one) are visible.",
       "optionType": "slider",
       "sliderRange": {"min": 0, "max": 100, "suffix": "%"},
       "defaultValue": "50"
