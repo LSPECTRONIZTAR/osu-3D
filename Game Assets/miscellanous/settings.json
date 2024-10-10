@@ -128,6 +128,7 @@
       "name": "Language",
       "description": "Changes the language of the game.",
       "trollDescription": "English or Spanish? 😏",
+      "warning": "Changing the language settings will not change anything at the moment because this game is still in beta and I would like to wait until it's actually finished to make support for other languages instead of constantly going back and forth. Thank you for understanding.",
       "optionType": "dropdown",
       "options": ["English", "Spanish", "French", "German", "Japanese"],
       "defaultValue": "English",
