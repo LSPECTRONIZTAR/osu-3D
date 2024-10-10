@@ -84,7 +84,7 @@
   "Keybindings": [
     {
       "name": "osu!standard",
-      "description": "Allows players to reassign key bindings for gameplay actions. Keymapping for osu!standard corresponds to the alternative clicking keys, such as Z and X.",
+      "description": "Reassign key bindings for gameplay actions. Keymapping for osu!standard corresponds to the alternative click keys.",
       "optionType": "keymap",
       "defaultValue": { "1": "z", "2": "x" }
     },
