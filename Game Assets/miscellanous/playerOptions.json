@@ -84,7 +84,7 @@
   "Keybindings": [
     {
       "name": "osu!standard",
-      "description": "Reassign key bindings for gameplay actions. Keymapping for osu!standard corresponds to the alternative click keys.",
+      "description": "Reassign key bindings for gameplay actions. Values of M1 and M2 correspond to the left and right mouse buttons.",
       "optionType": "keymap",
       "defaultValue": { "Left button": ["z", "m1"], "Right button": ["x", "m2"], "Smoke": ["c"] }
     },
