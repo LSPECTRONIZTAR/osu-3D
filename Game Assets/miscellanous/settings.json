@@ -48,12 +48,12 @@
     },
     {
       "name": "Screen Resolution",
-      "description": "Changes the screen resolution.",
+      "description": "Changes the screen resolution. Using one of the first two options is a must for the best experience.",
       "trollDescription": "Modifies your monitor's New Year's Resolution.",
       "warning": "Changing this option might break some text elements due to TurboWarp issues!",
       "optionType": "dropdown",
-      "options": ["Automatic", "Match display size (also recommended)", "Match window size", "640x360", "1280x720", "1600x900", "1920x1080", "2560x1440", "7680x4320"],
-      "defaultValue": "Match display size (also recommended)",
+      "options": ["Automatic (recommended)", "Match window size (recommended)", "Match display size (not recommended except in fullscreen)", "640x360", "1280x720", "1600x900", "1920x1080", "2560x1440", "7680x4320"],
+      "defaultValue": "Automatic (recommended)",
       "exclusive": "Application"
     },
     {
