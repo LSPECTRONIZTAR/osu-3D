@@ -142,5 +142,20 @@
       "defaultValue": "English",
       "hideFromList": true
     }
+  ],
+  "Experimental": [
+    {
+      "name": "Reflections",
+      "description": "This feature is unfinished and is not recommended.",
+      "trollDescription": "Time to do some reflections!",
+      "optionType": "on/off",
+      "defaultValue": false
+    },
+    {
+      "name": "Faster Load Method",
+      "description": "Self-explanatory.",
+      "optionType": "on/off",
+      "defaultValue": true
+    }
   ]
 }
