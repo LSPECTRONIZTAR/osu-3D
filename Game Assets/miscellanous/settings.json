@@ -65,7 +65,7 @@
     },
     {
       "name": "Framerate Limit",
-      "description": "Limits the frame rate of the game (gameplay only). Setting it to 0 is basically unlimited but not recommended.",
+      "description": "Limits the frame rate of the game (gameplay only). Setting it to 0 is basically V-Sync.",
       "optionType": "slider",
       "sliderRange": {"min": 0, "max": 250, "suffix": " fps"},
       "defaultValue": 120
