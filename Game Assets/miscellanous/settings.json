@@ -65,9 +65,9 @@
     },
     {
       "name": "Framerate Limit",
-      "description": "Limits the frame rate of the game (gameplay only).",
+      "description": "Limits the frame rate of the game (gameplay only). Setting it to 0 is basically unlimited but not recommended.",
       "optionType": "slider",
-      "sliderRange": {"min": 30, "max": 240, "suffix": " fps"},
+      "sliderRange": {"min": 0, "max": 250, "suffix": " fps"},
       "defaultValue": 120
     }
   ],
