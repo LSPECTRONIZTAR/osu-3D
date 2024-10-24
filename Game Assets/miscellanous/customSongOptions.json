@@ -1,0 +1,60 @@
+{
+  "General Information": [
+    {
+      "name": "Song Name",
+      "optionType": "text"
+    },
+    {
+      "name": "Song Artist",
+      "optionType": "text"
+    },
+    {
+      "name": "Song Sub-Name",
+      "optionType": "text"
+    }
+  ],
+  "Resources": [
+    {
+      "name": "Song",
+      "optionType": "audio"
+    },
+    {
+      "name": "Cover",
+      "optionType": "image"
+    },
+    {
+      "name": "Background",
+      "optionType": "image"
+    }
+  ],
+  "Timing": [
+    {
+      "name": "Song BPM",
+      "optionType": "number"
+    },
+    {
+      "name": "Song Offset",
+      "description": "Beatmap will start at the specified time (in seconds).",
+      "optionType": "number"
+    },
+    {
+      "name": "Reaction Time",
+      "description": "Auto-changes whenever BPM is changed.",
+      "optionType": "number",
+      "difficulty": true
+    },
+    {
+      "name": "Number of Keys",
+      "optionType": "slider",
+      "sliderRange": {"min": 1, "max": 9},
+      "exclusive": "Mania",
+      "difficulty": true
+    },
+    {
+      "name": "Difficulty Level",
+      "optionType": "slider",
+      "sliderRange": {"min": 0, "max": 10, "disableRounding": true},
+      "difficulty": true
+    }
+  ]
+}
